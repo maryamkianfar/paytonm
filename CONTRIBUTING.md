@@ -6,6 +6,7 @@ Dear developer! First of all, thank you so much for considering contributing to 
 * Add a support for a 3D file format.
 * Fix bugs
 * Refactor and make it run faster / be more readable.
+* 
 * Create more and more examples
 * Fix commenting errors (grammar mistakes, typos, markdown issues etc)
 
